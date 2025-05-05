@@ -4,7 +4,7 @@ A comprehensive repository for analyzing and processing sitar audio signals. Thi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - **`audio_files/`**: Contains audio files used for analysis and processing.
 - **`libfmp/`**: Libraries for Feature-based Music Processing (FMP) to aid in analysis.
@@ -15,7 +15,7 @@ A comprehensive repository for analyzing and processing sitar audio signals. Thi
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Harmonic-Percussive Source Separation (HPSS)**:
   - Isolate harmonic (melodic) and percussive (rhythmic) components of sitar recordings.
@@ -28,7 +28,7 @@ A comprehensive repository for analyzing and processing sitar audio signals. Thi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
